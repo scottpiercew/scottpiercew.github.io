@@ -50,7 +50,7 @@
     "build": "gatsby build",
     "dev": "gatsby develop -o",
     "postinstall": "node ./bin/hello.js",
-    "deploy": "gatsby build --prefix-paths && gh-pages -d public"
+    "deploy": "gatsby build && gh-pages -b master -d public"
   },
   "devDependencies": {
     "autoprefixer": "^8.0.0",

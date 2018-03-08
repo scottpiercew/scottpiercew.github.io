@@ -1,8 +1,8 @@
 module.exports = {
-  pathPrefix: '/scottpiercew.github.io.git',
+  pathPrefix: '/',
   siteTitle: 'Scott Pierce-Wrobel',
   siteTitleAlt: 'Scott Pierce-Wrobel Web Developer Portfolio',
-  siteUrl: 'https://github.com/scottpiercew/',
+  siteUrl: 'https://scottpierce-wrobel.com/',
   siteLanguage: 'en',
   siteLogo: 'headshot-hero.png',
   siteDescription: 'A DEVELOPER, DESIGNER, HUSBAND and MARINE who enjoys making beautiful websites',
