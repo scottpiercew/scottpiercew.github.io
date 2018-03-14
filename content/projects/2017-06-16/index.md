@@ -2,7 +2,7 @@
 client: "The Quad Co"
 title: "The Quad - Fitness Website"
 cover: "./quad-logo.jpg"
-date: "2014-6-12"
+date: "2014-06-12"
 platform: "Ruby on Rails"
 ---
 # Description

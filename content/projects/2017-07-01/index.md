@@ -2,7 +2,7 @@
 client: "Veteran Nexus"
 title: "VeteranNexus - Connecting Veterans and their families to communities"
 cover: "./veteran-nexus-logo.png"
-date: "2017-7-1"
+date: "2017-07-01"
 platform: "Ruby on Rails"
 ---
 # Description

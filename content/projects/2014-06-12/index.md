@@ -2,7 +2,7 @@
 client: "Veterans Campaign"
 title: "VetCamp - Encourage, Mentor, and Prepare Veterans"
 cover: "./iwo-jima-memorial.jpg"
-date: "2014-6-12"
+date: "2014-06-12"
 platform: "Squarespace Build"
 ---
 # Description

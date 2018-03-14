@@ -2,7 +2,7 @@
 client: "Fetch"
 title: "FetchIn - Where pet owners and sitters find each other"
 cover: "./fetch-main-logo.png"
-date: "2017-7-20"
+date: "2017-07-20"
 platform: "AngularJS + Rails"
 ---
 # Description
