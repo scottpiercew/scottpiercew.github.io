@@ -1,10 +1,11 @@
 ---
 client: "Veterans Campaign"
 title: "VetCamp - Encourage, Mentor, and Prepare Veterans"
-cover: "./iwo-jima-memorial.jpg"
+cover: "./veterans-campaign-logo.JPG"
 date: "2014-06-12"
 platform: "Squarespace Build"
 ---
+
 # Description
 
 Enhanced Veterans Campaign's national online presence by creating a new public website on the Squarespace platform, resulting in a 30% increase in attendance at its annual campaign workshop

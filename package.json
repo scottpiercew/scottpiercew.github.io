@@ -11,6 +11,7 @@
     "classnames": "^2.2.5",
     "date-fns": "^1.29.0",
     "gatsby": "^1.9.216",
+    "gatsby-cli": "^1.1.51",
     "gatsby-image": "^1.0.39",
     "gatsby-link": "^1.6.37",
     "gatsby-plugin-catch-links": "^1.0.17",
