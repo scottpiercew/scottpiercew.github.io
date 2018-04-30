@@ -4,11 +4,7 @@
 
 ## Why?
 
-To create fast websites.
-
-## Features
-
-List features
+Gatsby allows for a fast static generated site built in React.
 
 ## Technology Used
 
